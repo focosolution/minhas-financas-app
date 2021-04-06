@@ -14,7 +14,7 @@ class AppClass extends React.Component {
       this.setState({resultado: parseInt(this.state.num1) + parseInt(this.state.num2)})
     }
 
-    // o método render pertence a superclasse, estamos aqui apenas implementando, sabendo que o próprio React irá chamá-lo
+    // o método render pertence a superclasse, estamos aqui apenas implementando, sabendo que o próprio React irá chamá-lo.
     render(){
       return (
         <div>
