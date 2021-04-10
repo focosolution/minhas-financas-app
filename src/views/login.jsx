@@ -2,6 +2,8 @@ import React from 'react'
 import Card from '../components/card'
 import FormGroup from '../components/form-group'
 
+// teste
+
 class Login extends React.Component {
 
     state = {
